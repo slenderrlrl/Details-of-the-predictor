@@ -1,7 +1,7 @@
 Superconducting Transition Temperature Predictor (Ca–Mg–H System)
 Overview
 
-This repository provides the symbolic regression model developed to predict the superconducting transition temperature (T_c) of Ca–Mg–H ternary hydrides under high pressure.
+This repository provides the symbolic regression model developed to predict the superconducting transition temperature (Tc) of Ca–Mg–H ternary hydrides under high pressure.
 
 Due to the complexity of the analytical expression, the full model is provided here to ensure transparency and reproducibility.
 
@@ -20,7 +20,7 @@ Model Description
 
 The predictor is a symbolic regression expression of the form:
 
-f(h, M, P, μ*) → T_c
+f(h, M, P, μ*) → Tc
 
 The full analytical expression is provided in:
 
