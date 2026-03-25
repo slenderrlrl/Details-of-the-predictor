@@ -52,7 +52,7 @@ Data Availability
 
 The model is archived at:
 
-DOI: (to be filled after Zenodo upload)
+DOI: 10.5281/zenodo.19212385
 
 Notes
 The symbolic expression is intentionally kept in its original form to preserve accuracy.
@@ -60,4 +60,4 @@ No additional simplification was applied.
 Contact
 
 For questions, please contact:
-[Your Name / Email]
+
