@@ -57,5 +57,6 @@ The symbolic expression is intentionally kept in its original form to preserve a
 No additional simplification was applied.
 Contact
 
-For questions, please contact:
-
+For inquiries regarding the model and code, please contact:
+Lingrui Tong (童铃芮)
+Email: slenderrlrl@gmail.com
