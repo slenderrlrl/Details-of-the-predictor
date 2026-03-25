@@ -51,9 +51,7 @@ All results reported in the associated paper can be reproduced using the provide
 Data Availability
 
 The model is archived at:
-
-DOI: 10.5281/zenodo.19212385
-
+DOI: 10.5281/zenodo.19212536 
 Notes
 The symbolic expression is intentionally kept in its original form to preserve accuracy.
 No additional simplification was applied.
